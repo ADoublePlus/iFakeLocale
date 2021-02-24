@@ -54,6 +54,7 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DeveloperImageHelper.cs" />
     <Compile Include="DeviceInformation.cs" />
     <Compile Include="PlistReader.cs" />
     <Compile Include="PointLatLng.cs" />
